@@ -3,6 +3,6 @@ variable "GitHubOwner" {
 }
 
 variable "GitHubRepo" {
-  default = "https://github.com/Dmitrad/CICD-terraform.git"
-  # default = "2022-devops-terraform"
+  #default = "https://github.com/Dmitrad/CICD-terraform.git"
+  default = "CICD-terraform"
 }

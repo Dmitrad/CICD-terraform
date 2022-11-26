@@ -1,5 +1,5 @@
-module "s3" {
-    source = "../MODULES/S3"
+# module "s3" {
+#     source = "../../MODULES/S3"
 
-    environment = var.environment
-}
+#     environment = var.environment
+# }
